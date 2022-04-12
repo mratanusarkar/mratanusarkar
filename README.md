@@ -1,22 +1,30 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**mratanusarkar/mratanusarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Atanu Sarkar</h1>
 <h3 align="center">An Engineer by profession, Physics lover by passion</h3>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mratanusarkar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Atanu--Sarkar-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
+  </a>
+  
+  <a href="https://twitter.com/mratanusarkar">
+  <img src="https://img.shields.io/badge/Twitter-@mratanusarkar-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2">
+  </a>
+  
+  <a href="https://github.com/mratanusarkar">
+  <img src="https://img.shields.io/badge/Github-mratanusarkar-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6">
+  </a>
+  
+  <a href="mailto:mratanusarkar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mratanusarkar@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
+  </a>
+</p>
+
+---
+
+### About Me:
+
 
 - 🔭 I’m currently working on:
   - IoT
