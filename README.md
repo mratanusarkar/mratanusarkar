@@ -23,8 +23,7 @@
 
 ---
 
-### About Me:
-
+## About Me:
 
 - 🔭 I’m currently working on:
   - IoT
@@ -64,3 +63,25 @@
   - I love watching/playing chess and minecraft
   - I love exploring new places
   - I love Disney, Pixar & Animated (Movies) and The Big Bang Theory (Series)
+
+
+
+## Github Stats:
+
+![](https://img.shields.io/github/followers/mratanusarkar?style=social)
+![](https://komarev.com/ghpvc/?username=mratanusarkar&label=Profile%20views&color=0e75b6&style=flat)
+![](https://img.shields.io/github/last-commit/mratanusarkar/mratanusarkar?logo=markdown&label=Last+Commit&color=29bf12&style=flat)
+
+
+![](https://github-readme-stats.vercel.app/api?username=mratanusarkar&show_icons=true&locale=en)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mratanusarkar&)
+
+## Follow me on:
+<p align="left">
+<a href="https://github.com/mratanusarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mratanusarkar" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/mratanusarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mratanusarkar" height="30" width="40"/></a>
+<a href="https://twitter.com/mratanusarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mratanusarkar" height="30" width="40"/></a>
+<a href="https://instagram.com/mratanusarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mratanusarkar" height="30" width="40"/></a>
+<a href="https://www.reddit.com/user/mratanusarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="mratanusarkar" height="30" width="40"/></a>
+<a href="https://kaggle.com/mratanusarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mratanusarkar" height="30" width="40"/></a>
+</p>
