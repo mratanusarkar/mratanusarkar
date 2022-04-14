@@ -42,13 +42,11 @@
 
 - 👬 I’m looking to collaborate on:
   - creating useful tools and modules on npm and PyPI
-  - any topics on Robotics, Embedded Systems, IoT, Computer Vision & Ai/ML/DL
+  - any Hardware/Software topics related to Robotics, Embedded Systems, IoT, Computer Vision & Ai/ML/DL/RL
 
 - 💬 Ask me about:
-  - Physics
-  - Mathematics
-  - Electronics
-  - Acoustics, Audio & Sound
+  - Physics & Mathematics
+  - Electronics, Mechatronics, Acoustics, Audio & Sound
   - Industry 4.0
   - Space Science and Space Technologies
   - Any Engineering, Science and Technology related topics
