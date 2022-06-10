@@ -26,13 +26,10 @@
 ## About Me:
 
 - 🔭 I’m currently working on:
-  - IoT
-  - Full Stack Development
-  - Azure Cloud
+  - IoT, Full Stack Development & Azure Cloud
   - Backend Technologies: Java, Spring Boot, NodeJS, JavaScript
   - Frontend Technologies: HTML, CSS, JavaScript, Angular, Typescript
   - Database Technologies: MySQL, MS SQL, mongoDB
-  - Cloud Technologies: Azure FunctionApp Serverless Architecture, Azure Storage, Azure Appservice, Azure Infra
   - DevOps Technologies: Docker, Kubernetes, Azure CI/CD Pipelines
 
 - 🌱 I’m currently learning:
