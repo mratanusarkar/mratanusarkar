@@ -55,9 +55,9 @@
   - you want to [hire me](https://www.linkedin.com/in/mratanusarkar/)
 
 - ⚡ Fun fact:
-  - I love watching/playing chess and minecraft
-  - I love exploring new places
-  - I love Disney, Pixar & Animated (Movies) and The Big Bang Theory (Series)
+  - I play chess and minecraft
+  - I love to travel and explore new places
+  - I prefer spending my free time on movies, audiobooks and music
 
 
 
