@@ -31,6 +31,7 @@
   - Frontend Technologies: HTML, CSS, JavaScript, Angular, Typescript
   - Database Technologies: MySQL, MS SQL, mongoDB
   - DevOps Technologies: Docker, Kubernetes, Azure CI/CD Pipelines
+  - General-Purpose Technologies: Python, MATLAB
 
 - 🌱 I’m currently learning:
   - C++ for Simulation & Game Development
