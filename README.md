@@ -35,6 +35,7 @@
 
 - 🌱 I’m currently learning:
   - C++ for Simulation & Game Development
+  - ROS for Robotics & ADAS Systems development
   - Embedded Systems Topics: ESP32 & STM32
   - Ai/ML frameworks: TensorFlow & PyTorch
 
