@@ -26,6 +26,13 @@
 ## About Me:
 
 - 🔭 I’m currently working on:
+  - Full Stack Development (Vue, Django, PostgreSQL)
+  - Azure Cloud & Azure DevOps Pipelines
+  - Building Ai/DL Solutions using opensource tools, models and LLMs
+  - ROS
+  - ADAS & L4 Simulations using C++
+
+- 🕰️ My previous endeavors:
   - IoT, Full Stack Development & Azure Cloud
   - Backend Technologies: Java, Spring Boot, NodeJS, JavaScript
   - Frontend Technologies: HTML, CSS, JavaScript, Angular, Typescript
