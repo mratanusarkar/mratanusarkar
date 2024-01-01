@@ -28,9 +28,9 @@
 - 🔭 I’m currently working on:
   - Full Stack Development (Vue, Django, PostgreSQL)
   - Azure Cloud & Azure DevOps Pipelines
-  - Building Ai/DL Solutions using opensource tools, models and LLMs
-  - ROS
-  - ADAS & L4 Simulations using C++
+  - Building ML/GenAi/LLM based solutions using opensource tools, models, and libraries
+  - Building Tools for ADAS and L4 Simulations
+  - OpenSource contributions and OpenSource projects
 
 - 🕰️ My previous endeavors:
   - IoT, Full Stack Development & Azure Cloud
@@ -44,22 +44,22 @@
   - C++ for Simulation & Game Development
   - ROS for Robotics & ADAS Systems development
   - Embedded Systems Topics: ESP32 & STM32
-  - Ai/ML frameworks: TensorFlow & PyTorch
+  - Ai/ML frameworks: TensorFlow, Keras & PyTorch
 
 - 👬 I’m looking to collaborate on:
   - creating useful tools and modules on npm and PyPI
-  - any Hardware/Software topics related to Robotics, Embedded Systems, IoT, Computer Vision & Ai/ML/DL/RL
+  - any Hardware/Software topics related to Robotics, Embedded Systems, IoT, Computer Vision & AI/ML/DL/RL
 
 - 💬 Ask me about:
   - Physics & Mathematics
   - Electronics, Mechatronics, Acoustics, Audio & Sound
   - Industry 4.0
   - Space Science and Space Technologies
-  - Any Engineering, Science and Technology related topics
+  - Any Engineering, Science, and Technology related topics
 
 - 📫 Reach out to me if:
   - you need any help regarding topics & technologies I have worked on
-  - you want to engage in a meaningful conversation on Science, Technology and Industry 4.0
+  - you want to engage in a meaningful conversation on Science, Technology, and Industry 4.0
   - you want to colab on any project or brainstorm any ideas
   - you want to [hire me](https://www.linkedin.com/in/mratanusarkar/)
 
