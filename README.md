@@ -25,50 +25,43 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on:
-  - Full Stack Development (Vue, Django, PostgreSQL)
-  - Azure Cloud & Azure DevOps Pipelines
-  - Building ML/GenAi/LLM based solutions using opensource tools, models, and libraries
-  - Building Tools for ADAS and L4 Simulations
-  - OpenSource contributions and OpenSource projects
+- 🔭 I'm currently working on:
+  - Building [Binapani](https://www.binapani.com/) ([YT](https://www.youtube.com/@binapani_edu))
+  - Building [Inksphere](http://inksphere.ai/)
+  - Designing and shipping LLM-powered products & systems (end-to-end)
+  - Full-stack engineering, DevOps, and cloud infrastructure
 
-- 🕰️ My previous endeavors:
-  - IoT, Full Stack Development & Azure Cloud
-  - Backend Technologies: Java, Spring Boot, NodeJS, JavaScript
-  - Frontend Technologies: HTML, CSS, JavaScript, Angular, Typescript
-  - Database Technologies: MySQL, MS SQL, mongoDB
-  - DevOps Technologies: Docker, Kubernetes, Azure CI/CD Pipelines
-  - General-Purpose Technologies: Python, MATLAB
+- 🧭 My role today:
+  - Founding Engineer working at **0 → 1 → scale**
+  - Owning system architecture, product direction, and execution
+  - Leading small teams, setting engineering standards, and learning how to grow early-stage startups the right way
 
-- 🌱 I’m currently learning:
-  - C++ for Simulation & Game Development
-  - ROS for Robotics & ADAS Systems development
-  - Embedded Systems Topics: ESP32 & STM32
-  - Ai/ML frameworks: TensorFlow, Keras & PyTorch
+- 🧠 I'm into:
+  - System design, scalable architectures, and shipping real products
+  - Visual design, UI/UX, graphics, motion & visual design
+  - Physics, math, and anything that sparks curiosity
 
-- 👬 I’m looking to collaborate on:
-  - creating useful tools and modules on npm and PyPI
-  - any Hardware/Software topics related to Robotics, Embedded Systems, IoT, Computer Vision & AI/ML/DL/RL
+- 🌱 I'm currently learning:
+  - LLM post-training: fine-tuning (LoRA/QLoRA), preference tuning (DPO), distillation, and small-model optimization + evaluation
+  - Building reliable GenAI systems: datasets, prompt/context optimization (DSPy), RAG quality, safety/guardrails, and production monitoring
+  - Startup craft: product thinking, positioning, pricing, growth loops, fundraising basics (yes - Shark Tank binge 🦈)
+  - Better design taste: typography, colors, motion, storytelling-first UX, emotional design
+
+- 🤝 I'm open to:
+  - Collaborating on developer tools (NPM / PyPI), LLM workflow tooling, and applied AI products
+  - Building OSS utilities to improve engineers' productivity and DX
 
 - 💬 Ask me about:
-  - Physics & Mathematics
-  - Electronics, Mechatronics, Acoustics, Audio & Sound
-  - Industry 4.0
-  - Space Science and Space Technologies
-  - Any Engineering, Science, and Technology related topics
-
-- 📫 Reach out to me if:
-  - you need any help regarding topics & technologies I have worked on
-  - you want to engage in a meaningful conversation on Science, Technology, and Industry 4.0
-  - you want to colab on any project or brainstorm any ideas
-  - you want to [hire me](https://www.linkedin.com/in/mratanusarkar/)
+  - Physics, Mathematics & Space Science
+  - Electronics, Mechatronics, Acoustics, Audio & Sound Engineering
+  - GenAI, Web engineering, DevOps pipelines, and deployment architecture
+  - Designing product experiences that feel "crafted"
 
 - ⚡ Fun fact:
-  - I play chess and minecraft
-  - I love to travel and explore new places
-  - I prefer spending my free time on movies, audiobooks and music
-
-
+  - I love chess & standup comedy
+  - I enjoy traveling and exploring new places
+  - I'm a mad cinephile & audiophile
+  - I'm a rookie currently learning guitar
 
 ## Github Stats:
 
