@@ -27,7 +27,7 @@
 
 - 🔭 I'm currently working on:
   - Building [Binapani](https://www.binapani.com/) ([YT](https://www.youtube.com/@binapani_edu))
-  - Building [Inksphere](http://inksphere.ai/)
+  - Building [Inksphere](http://inksphere.ai/) ([YT](https://www.youtube.com/@inkspherelab))
   - Designing and shipping LLM-powered products & systems (end-to-end)
   - Full-stack engineering, DevOps, and cloud infrastructure
 
